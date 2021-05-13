@@ -67,7 +67,7 @@
             // 
             // btnDevision
             // 
-            this.btnDevision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnDevision.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnDevision.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnDevision.FlatAppearance.BorderSize = 0;
             this.btnDevision.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -115,7 +115,7 @@
             // 
             // btnMultiply
             // 
-            this.btnMultiply.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMultiply.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMultiply.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMultiply.FlatAppearance.BorderSize = 0;
             this.btnMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -131,7 +131,7 @@
             // 
             // btnSubtraction
             // 
-            this.btnSubtraction.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnSubtraction.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnSubtraction.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSubtraction.FlatAppearance.BorderSize = 0;
             this.btnSubtraction.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -163,7 +163,7 @@
             // 
             // btnPlus
             // 
-            this.btnPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnPlus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnPlus.FlatAppearance.BorderSize = 0;
             this.btnPlus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -355,7 +355,7 @@
             // 
             // btnSqrtRoot
             // 
-            this.btnSqrtRoot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnSqrtRoot.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnSqrtRoot.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSqrtRoot.FlatAppearance.BorderSize = 0;
             this.btnSqrtRoot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -385,7 +385,7 @@
             // 
             // btnSquare
             // 
-            this.btnSquare.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnSquare.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnSquare.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSquare.FlatAppearance.BorderSize = 0;
             this.btnSquare.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -401,7 +401,7 @@
             // 
             // btnMemoryPlus
             // 
-            this.btnMemoryPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMemoryPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMemoryPlus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMemoryPlus.FlatAppearance.BorderSize = 0;
             this.btnMemoryPlus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -417,7 +417,7 @@
             // 
             // btnMemoryClear
             // 
-            this.btnMemoryClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMemoryClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMemoryClear.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMemoryClear.FlatAppearance.BorderSize = 0;
             this.btnMemoryClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -433,7 +433,7 @@
             // 
             // btnPlusMinus
             // 
-            this.btnPlusMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnPlusMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnPlusMinus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnPlusMinus.FlatAppearance.BorderSize = 0;
             this.btnPlusMinus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -449,7 +449,7 @@
             // 
             // btnMemoryMinus
             // 
-            this.btnMemoryMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMemoryMinus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMemoryMinus.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMemoryMinus.FlatAppearance.BorderSize = 0;
             this.btnMemoryMinus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -465,7 +465,7 @@
             // 
             // btnMemoryRecall
             // 
-            this.btnMemoryRecall.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMemoryRecall.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMemoryRecall.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMemoryRecall.FlatAppearance.BorderSize = 0;
             this.btnMemoryRecall.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -481,7 +481,7 @@
             // 
             // btnOneX
             // 
-            this.btnOneX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnOneX.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnOneX.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnOneX.FlatAppearance.BorderSize = 0;
             this.btnOneX.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -552,7 +552,7 @@
             // 
             // btnMemoryStore
             // 
-            this.btnMemoryStore.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(254)))), ((int)(((byte)(158)))), ((int)(((byte)(10)))));
+            this.btnMemoryStore.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.btnMemoryStore.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMemoryStore.FlatAppearance.BorderSize = 0;
             this.btnMemoryStore.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
